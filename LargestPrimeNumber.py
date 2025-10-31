@@ -24,5 +24,5 @@ def GetLargestPrimeFactor(num):
 
     return 0;
 
-GetLargestPrimeFactor(13195)
+GetLargestPrimeFactor(600851475143)
 print("The primes are: ", primes)
